@@ -1,9 +1,9 @@
 # Php-Eticaret
 EticaretSitesi 
 
-Php  yle  Yazılmış  Sade  eticaret sitedir.
+Php  yle  Yazılmış  Sade  eticaret Ayakabı mağaza sitesidir.
 
 
-Not: Javasciprit Ve Css  Az kulanılmıştöır. burdaki amac php  önpilana cıkarmaktır . responsive  deyildirr.
+Not: Javasciprit Ve Css  Az kulanılmıştır. burdaki amac php'yi  önpilana cıkarmaktır . responsive yapısında deyildir.
 
 
